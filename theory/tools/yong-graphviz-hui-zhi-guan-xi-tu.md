@@ -10,9 +10,7 @@
 
 ## 安装
 
-发现一个很好用的在线编辑器：[GraphvizOnline](http://dreampuf.github.io/GraphvizOnline/#digraph%20graph_name%20{%20
-%20%20A->B[label%3D"关系"]%20
-}) 支持即时渲染，导出 `.png` 与 `.svg` 等格式。
+发现一个很好用的在线编辑器：\[GraphvizOnline\]\([http://dreampuf.github.io/GraphvizOnline/\#digraph graph\_name { ](http://dreampuf.github.io/GraphvizOnline/#digraph%20graph_name%20{%20) %20%20A-&gt;B\[label%3D"关系"\]%20 }\) 支持即时渲染，导出 `.png` 与 `.svg` 等格式。
 
 macOS 安装：`$ brew install graphviz`
 

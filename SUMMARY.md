@@ -38,6 +38,7 @@
   * [浅谈 Bitcron 博客平台](literary/words/qian-tan-bitcron-bo-ke-ping-tai.md)
   * [读《黑客与画家》](literary/words/du-hei-ke-yu-hua-jia.md)
 * [Digest](literary/digest/README.md)
+  * [沉默的大多数](literary/digest/chen-mo-de-da-duo-shu.md)
   * [关于审美](literary/digest/guan-yu-shen-mei.md)
   * [创业时,我们在知乎聊什么?](literary/digest/chuang-ye-shi-wo-men-zai-zhi-hu-liao-shen-me.md)
   * [游戏化教育：改变互联网教育的创新战略](literary/digest/you-xi-hua-jiao-yu-gai-bian-hu-lian-wang-jiao-yu-de-chuang-xin-zhan-lve.md)

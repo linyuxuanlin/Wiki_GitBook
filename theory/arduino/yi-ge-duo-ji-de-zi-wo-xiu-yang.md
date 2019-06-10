@@ -49,7 +49,7 @@ void loop() {
 
 ### 5. 组装
 
-![](https://image-backup-1253965369.cos.ap-guangzhou.myqcloud.com/一个舵机的自我修养/2218072-d0aec7a2cb430e4c.jpg) 把齿轮组装回去，注意不要弄错齿轮位置。 把螺丝锁上，你就得到了一个360°连转舵机。 
+![](https://image-backup-1253965369.cos.ap-guangzhou.myqcloud.com/一个舵机的自我修养/2218072-d0aec7a2cb430e4c.jpg) 把齿轮组装回去，注意不要弄错齿轮位置。 把螺丝锁上，你就得到了一个360°连转舵机。
 
 ### 6. 调试
 
