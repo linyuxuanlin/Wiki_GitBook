@@ -1,6 +1,6 @@
 # Introduction
 
-Hello there :D test
+Hello there :D
 
 这儿是 Power Lin 的个人 Wiki 站点，记录个人知识并将其结构化。
 对知识的记录与归纳，以前我用的是 Blog 的形式。后来逐渐发现，这样整理的知识很零散。于是，我改用 Wiki 的形式，用一种结构化、系统化的方法来管理我的知识。
