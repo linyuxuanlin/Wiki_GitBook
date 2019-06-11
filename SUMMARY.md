@@ -19,6 +19,8 @@
   * [树莓派搭建云打印](theory/raspberry-pi/shu-mei-pai-da-jian-yun-da-yin.md)
 * [HTML](theory/html/README.md)
   * [HTML 学习笔记](theory/html/html-xue-xi-bi-ji.md)
+* [Command Line](theory/command-line/README.md)
+  * [命令行基本操作](theory/command-line/ming-ling-hang-ji-ben-cao-zuo.md)
 * [Node.js](theory/node.js/README.md)
   * [Node.js 和 npm 的安装与卸载（MacOS）](theory/node.js/node.js-he-npm-de-an-zhuang-yu-xie-zai-macos.md)
 * [WeChat Mini Programs](theory/wechat-mini-programs/README.md)
