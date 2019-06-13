@@ -8,6 +8,7 @@
 * [Altium Desingner](theory/altium-desingner/README.md)
   * [通用制版流程](theory/altium-desingner/tong-yong-zhi-ban-liu-cheng.md)
 * [Arduino](theory/arduino/README.md)
+  * [小车游华广 - 比赛](theory/arduino/xiao-che-you-hua-guang-bi-sai.md)
   * [麦昆小车 - 测评](theory/arduino/mai-kun-xiao-che-ce-ping.md)
   * [T-Clock 桌上小钟](theory/arduino/tclock-zhuo-shang-xiao-zhong.md)
   * [Wight - 物联网路灯](theory/arduino/wight-wu-lian-wang-lu-deng.md)
