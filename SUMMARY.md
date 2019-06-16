@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Contact me](contact-me.md)
+* [Resume](https://resume.wiki-power.com/)
 
 ## Theory
 
