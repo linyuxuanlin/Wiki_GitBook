@@ -20,15 +20,27 @@
 
 ### 2. 拆开舵机
 
-![](https://image-backup-1253965369.cos.ap-guangzhou.myqcloud.com/一个舵机的自我修养/2218072-7bc137198ac65914.jpg) ![](https://image-backup-1253965369.cos.ap-guangzhou.myqcloud.com/一个舵机的自我修养/2218072-ce45e1ce8a869ed2.jpg) **注意记住每个齿轮的位置。** ![](https://image-backup-1253965369.cos.ap-guangzhou.myqcloud.com/一个舵机的自我修养/2218072-f81faeac715a89f7.jpg)
+![](https://image-backup-1253965369.cos.ap-guangzhou.myqcloud.com/一个舵机的自我修养/2218072-7bc137198ac65914.jpg)
+
+ ![](https://image-backup-1253965369.cos.ap-guangzhou.myqcloud.com/一个舵机的自我修养/2218072-ce45e1ce8a869ed2.jpg) 
+
+**注意记住每个齿轮的位置。**
+
+ ![](https://image-backup-1253965369.cos.ap-guangzhou.myqcloud.com/一个舵机的自我修养/2218072-f81faeac715a89f7.jpg)
 
 ### 3. 修改齿轮
 
-把最大的齿轮拣出来，用斜口钳把后面凸起的地方剪掉。 ![](https://image-backup-1253965369.cos.ap-guangzhou.myqcloud.com/一个舵机的自我修养/2218072-2fab2f9620b5efb2.jpg) 找一只比轴的直径大一点的螺丝刀，给这个齿轮扩大一下内径，使它能在轴上自由转动。 ![](https://image-backup-1253965369.cos.ap-guangzhou.myqcloud.com/一个舵机的自我修养/2218072-b5de55e257df450e.jpg)
+把最大的齿轮拣出来，用斜口钳把后面凸起的地方剪掉。 ![](https://image-backup-1253965369.cos.ap-guangzhou.myqcloud.com/一个舵机的自我修养/2218072-2fab2f9620b5efb2.jpg) 
+
+找一只比轴的直径大一点的螺丝刀，给这个齿轮扩大一下内径，使它能在轴上自由转动。 ![](https://image-backup-1253965369.cos.ap-guangzhou.myqcloud.com/一个舵机的自我修养/2218072-b5de55e257df450e.jpg)
 
 ### 4. 封电位器
 
-在做这一步之前，我们必须先把舵机**回到中位**。 ![](https://image-backup-1253965369.cos.ap-guangzhou.myqcloud.com/一个舵机的自我修养/2218072-3f7127da4c2c8d88.jpg) 找一块 Arduino 板子，给它烧进一段让舵机回到中位的程序：
+在做这一步之前，我们必须先把舵机**回到中位**。
+
+ ![](https://image-backup-1253965369.cos.ap-guangzhou.myqcloud.com/一个舵机的自我修养/2218072-3f7127da4c2c8d88.jpg) 
+
+找一块 Arduino 板子，给它烧进一段让舵机回到中位的程序：
 
 ```cpp
 //by Lin
@@ -43,13 +55,21 @@ void loop() {
 }
 ```
 
-![](https://image-backup-1253965369.cos.ap-guangzhou.myqcloud.com/一个舵机的自我修养/2218072-41374b07e5f87b06.png) 如图，接上舵机，你会发现它一直在转。
+![](https://image-backup-1253965369.cos.ap-guangzhou.myqcloud.com/一个舵机的自我修养/2218072-41374b07e5f87b06.png) 
 
-![](https://image-backup-1253965369.cos.ap-guangzhou.myqcloud.com/一个舵机的自我修养/2218072-04e91993e3d57d4d.jpg) 把右边的轴来回转几圈，找到一个让电机停下来的位置（把这里的电位器调到中间的值。 ![](https://image-backup-1253965369.cos.ap-guangzhou.myqcloud.com/一个舵机的自我修养/2218072-964d07b3c4c304d4.jpg) 给电位器上胶，封死它。注意，这时候不要不小心把轴给转动了，如果这样，就得重新返回第三步了。
+如图，接上舵机，你会发现它一直在转。
+
+![](https://image-backup-1253965369.cos.ap-guangzhou.myqcloud.com/一个舵机的自我修养/2218072-04e91993e3d57d4d.jpg) 
+
+把右边的轴来回转几圈，找到一个让电机停下来的位置（把这里的电位器调到中间的值。 ![](https://image-backup-1253965369.cos.ap-guangzhou.myqcloud.com/一个舵机的自我修养/2218072-964d07b3c4c304d4.jpg) 
+
+给电位器上胶，封死它。注意，这时候不要不小心把轴给转动了，如果这样，就得重新返回第三步了。
 
 ### 5. 组装
 
-![](https://image-backup-1253965369.cos.ap-guangzhou.myqcloud.com/一个舵机的自我修养/2218072-d0aec7a2cb430e4c.jpg) 把齿轮组装回去，注意不要弄错齿轮位置。 把螺丝锁上，你就得到了一个360°连转舵机。
+![](https://image-backup-1253965369.cos.ap-guangzhou.myqcloud.com/一个舵机的自我修养/2218072-d0aec7a2cb430e4c.jpg) 
+
+把齿轮组装回去，注意不要弄错齿轮位置。 把螺丝锁上，你就得到了一个360°连转舵机。
 
 ### 6. 调试
 
