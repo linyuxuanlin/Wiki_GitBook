@@ -44,6 +44,7 @@
 * [Digest](literary/digest/README.md)
   * [沉默的大多数](literary/digest/chen-mo-de-da-duo-shu.md)
   * [黄金时代](literary/digest/huang-jin-shi-dai.md)
+  * [一只特立独行的猪](literary/digest/yi-zhi-te-li-du-hang-de-zhu.md)
   * [王小波作品集（未归纳）](literary/digest/wang-xiao-bo-wen-ji.md)
   * [关于审美](literary/digest/guan-yu-shen-mei.md)
   * [创业时,我们在知乎聊什么?](literary/digest/chuang-ye-shi-wo-men-zai-zhi-hu-liao-shen-me.md)
