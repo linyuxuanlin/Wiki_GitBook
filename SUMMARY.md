@@ -36,6 +36,7 @@
 ## Literary
 
 * [Words](literary/words/README.md)
+  * [转至 GitBook](literary/words/zhuan-zhi-gitbook.md)
   * [回归博客](literary/words/hui-gui-bo-ke.md)
   * [我的排版标准](literary/words/wo-de-pai-ban-biao-zhun.md)
   * [构建知识管理系统](literary/words/gou-jian-zhi-shi-guan-li-xi-tong.md)
