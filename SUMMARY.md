@@ -81,7 +81,7 @@
   * [活着](literary/digest/huo-zhe.md)
   * [岛上书店](literary/digest/dao-shang-shu-dian.md)
   * [双城记](literary/digest/shuang-cheng-ji.md)
-  * [1984](literary/digest/1984.md)
+  * [一九八四](literary/digest/1984.md)
   * [万万没想到](literary/digest/wan-wan-mei-xiang-dao.md)
   * [追风筝的人](literary/digest/zhui-feng-zheng-de-ren.md)
   * [三体](literary/digest/san-ti.md)
