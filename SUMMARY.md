@@ -44,6 +44,7 @@
   * [读《黑客与画家》](literary/words/du-hei-ke-yu-hua-jia.md)
 * [Digest](literary/digest/README.md)
   * [Producter](literary/digest/producter.md)
+  * [小岛经济学](literary/digest/xiao-dao-jing-ji-xue.md)
   * [沉默的大多数](literary/digest/chen-mo-de-da-duo-shu.md)
   * [黄金时代](literary/digest/huang-jin-shi-dai.md)
   * [一只特立独行的猪](literary/digest/yi-zhi-te-li-du-hang-de-zhu.md)
