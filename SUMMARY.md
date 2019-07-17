@@ -6,6 +6,8 @@
 
 ## Theory
 
+* [Hackathon](theory/hackathon/README.md)
+  * [THE Hack 2019](theory/hackathon/the-hack-2019.md)
 * [Altium Desingner](theory/altium-desingner/README.md)
   * [通用制版流程](theory/altium-desingner/tong-yong-zhi-ban-liu-cheng.md)
 * [Arduino](theory/arduino/README.md)
