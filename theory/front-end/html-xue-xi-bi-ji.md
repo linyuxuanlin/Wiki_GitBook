@@ -51,6 +51,8 @@
 
 ### 换行
 
+不产生新段落换行：
+
 ```markup
 <br />
 ```
@@ -92,7 +94,23 @@
 </ol>
 ```
 
+### 表格
+
+```text
+<table>
+  <thead>
+    <tr><th > 时间 </th><th > 地点 </th></tr>
+  </thead>
+  <tbody>
+    <tr><td>2000</td><td > 悉尼 </td></tr>
+    <tr><td>2004</td><td > 雅典 </td></tr>
+    <tr><td>2000</td><td > 北京 </td></tr>
+  </tbody>
+</table>
+```
+
 ## 参考与致谢
 
 * [HTML 教程 \| 菜鸟教程](http://www.runoob.com/html/html-tutorial.html)
+* [HTML 30 分钟入门教程](http://deerchao.net/tutorials/html/html.htm)
 
