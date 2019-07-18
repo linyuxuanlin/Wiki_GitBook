@@ -22,6 +22,7 @@
 * [Raspberry Pi](theory/raspberry-pi/README.md)
   * [树莓派搭建云打印](theory/raspberry-pi/shu-mei-pai-da-jian-yun-da-yin.md)
 * [HTML](theory/html/README.md)
+  * [HTML 环境搭建](theory/html/html-huan-jing-da-jian.md)
   * [HTML 学习笔记](theory/html/html-xue-xi-bi-ji.md)
 * [Command Line](theory/command-line/README.md)
   * [命令行基本操作](theory/command-line/ming-ling-hang-ji-ben-cao-zuo.md)
