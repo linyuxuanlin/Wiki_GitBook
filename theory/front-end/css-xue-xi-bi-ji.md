@@ -2,13 +2,14 @@
 
 ## 基本用法
 
-在 HTML 的 `<head>` 下添加联系：
+在 HTML 的 `<head>` 下添加外部样式表：
 
 ```text
 <link rel="stylesheet" href="xxx.css">
 ```
 
-其中，`xxx.css` 为同目录下的 CSS 文件。
+其中，`xxx.css` 为同目录下的 CSS 文件。  
+注意：尽量使用 **链接式的外部样式表**（如上）
 
 ## 参考与致谢
 

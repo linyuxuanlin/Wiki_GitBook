@@ -19,6 +19,21 @@
 
 可直接在编辑器输入 `html:5` 调出
 
+### head
+
+可添加到 head 部分的标签：
+
+```text
+<title>：指定整个网页的标题，在浏览器最上方显示。
+<base>：为页面上的所有链接规定默认地址或默认目标（target）。
+<meta>：提供有关页面的基本信息。
+<link>：定义文档与外部资源的关系。
+<script>：定义客户端脚本，如 JavaScript.
+<style>：定义内部样式表与网页的关系。
+```
+
+
+
 ## 语句
 
 一些规范：
@@ -118,4 +133,5 @@
 
 * [HTML 教程 \| 菜鸟教程](http://www.runoob.com/html/html-tutorial.html)
 * [HTML 30 分钟入门教程](http://deerchao.net/tutorials/html/html.htm)
+* [HTML - head 头部浅析](https://www.tielemao.com/831.html)
 
