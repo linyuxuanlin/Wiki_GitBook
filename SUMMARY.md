@@ -22,6 +22,8 @@
 * [Raspberry Pi](theory/raspberry-pi/README.md)
   * [树莓派搭建云打印](theory/raspberry-pi/shu-mei-pai-da-jian-yun-da-yin.md)
 * [Front-end](theory/front-end/README.md)
+  * [自适应网页设计](theory/front-end/zi-kuo-ying-wang-ye-she-ji.md)
+  * [CSS 学习笔记](theory/front-end/css-xue-xi-bi-ji.md)
   * [HTML 环境搭建](theory/front-end/html-huan-jing-da-jian.md)
   * [HTML 学习笔记](theory/front-end/html-xue-xi-bi-ji.md)
 * [Command Line](theory/command-line/README.md)

@@ -1,26 +1,31 @@
 # HTML 学习笔记
 
-学习笔记整理。
-
-## 基本文档
+## 基本架构
 
 ```markup
 <!DOCTYPE html>
-<html>
-    <head>
-    <meta charset="utf-8">
-        <title>文章标题</title>
-    </head>
-    <body>
-        <h1>大标题</h1>
-        <p>正文</p>
-    </body>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>标题</title>
+</head>
+<body>
+    
+</body>
 </html>
 ```
 
+可直接在编辑器输入 `html:5` 调出
+
 ## 语句
 
-规范：标签使用小写，元素必须闭合。 在开始标签中添加斜杠以关闭空元素。eg. `<br />`
+一些规范：
+
+1. 标签使用小写，元素必须闭合
+2. 在开始标签中添加斜杠以关闭空元素  eg. `<br />`
+3. 避免使用标记语言的特性，以便所有样式都存放于 CSS 中
 
 ### 标题
 
@@ -90,7 +95,7 @@
 
 <!有序>
 <ol>
-    <li>第一项</li>
+    <li>第一项</li>    
 </ol>
 ```
 
