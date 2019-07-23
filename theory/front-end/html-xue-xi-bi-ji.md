@@ -1,6 +1,6 @@
 # HTML 学习笔记
 
-## 基本架构
+## 基本框架
 
 ```markup
 <!DOCTYPE html>
@@ -17,116 +17,90 @@
 </html>
 ```
 
-可直接在编辑器输入 `html:5` 调出
-
-### head
-
-可添加到 head 部分的标签：
-
-```text
-<title>：指定整个网页的标题，在浏览器最上方显示。
-<base>：为页面上的所有链接规定默认地址或默认目标（target）。
-<meta>：提供有关页面的基本信息。
-<link>：定义文档与外部资源的关系。
-<script>：定义客户端脚本，如 JavaScript.
-<style>：定义内部样式表与网页的关系。
-```
-
-
+可打开 `.html` 文件，直接输入 `html:5` 调出
 
 ## 语句
 
 一些规范：
 
 1. 标签使用小写，元素必须闭合
-2. 在开始标签中添加斜杠以关闭空元素  eg. `<br />`
-3. 避免使用标记语言的特性，以便所有样式都存放于 CSS 中
-
-### 标题
-
-用 ~ 标签定义
+2. 空元素要加斜杠以闭合  eg. `<br />`
+3. 不使用语义化，所有样式都存放于 CSS 中，内容与样式分离
 
 ```markup
-<h1>这是一个标题</h1>
-```
+<!DOCTYPE html>
+<html lang="en">
 
-### 段落
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>标题</title>
+</head>
 
-```markup
-<p>这是一个段落</p>
-```
+<body>
+    <h1>一级标题</h1>
+    <h2>二级标题</h2>
+    <p>段落</p>
 
-### 链接
+    <!--换行符-->
+    <br />
+    <!--分割线-->
+    <hr />
 
-```markup
-<a href="url">链接显示的文本</a>
-```
+    <!--列表，可嵌套-->
+    <!--有序列表-->
+    <ol>
+        <li>第一项</li>
+        <li>第二项</li>
+    </ol>
+    <!--无序列表-->
+    <ul>
+        <li>第一项</li>
+        <li>第二项</li>
+    </ul>
 
-### 图像
+    <!--链接-->
+    <a href="https://www.google.com/">链接显示的文本</a>
+    <!--链接到页面特定位置,使用 ID 特性-->
+    <a href="#top">回到顶部</a>
+    <p id="top">顶部</p>
+    <!--链接到其他页面的特定位置-->
+    <a href="http://wiki-power.com/#top">跳转到站外页面的某个位置</a>
 
-```markup
-<img src="/xx.png" width="258" height="39" />
-<a href="url"><img src="/xx.png" width="258" height="39"></a>
-```
+    <!--图像-->
+    <img src="/xx.png" alt="无法加载时的文字说明" />
 
-### 换行
+    <!--表格-->
+    <table>
+        <!--第一行-->
+        <tr>
+            <!--第一列-->
+            <th></th>
+            <!--第二列-->
+            <th scope="col">周六</th>
+            <!--第三列-->
+            <th scope="col">周日</th>
+        </tr>
+        <!--第二行-->
+        <tr>
+            <th scope="row">数量</th>
+            <td>120</td>
+            <td>135</td>
+        </tr>
+        <!--第三行-->
+        <tr>
+            <th scope="row">收益</th>
+            <!--跨列 colspan，跨行 rowspan-->
+            <td colspan="2">500</td>
+        </tr>
+    </table>
 
-不产生新段落换行：
+    <!--表单，待补充-->
 
-```markup
-<br />
-```
+</body>
 
-### 分割线
-
-```markup
-<hr>
-```
-
-### 注释
-
-```markup
-<!注释>
-<!-- 注释 -->
-```
-
-### 文本格式化
-
-```markup
-<b>粗体</b>
-<i>斜体</i>
-<del>删除</del>
-<q>块引用</q>
-```
-
-### 列表
-
-```markup
-<!无序>
-<ul>
-    <li>第一项</li>
-    <li>第二项</li>
-</ul>
-
-<!有序>
-<ol>
-    <li>第一项</li>    
-</ol>
-```
-
-### 表格
-
-```text
-<table>
-  <thead>
-    <tr><th > 时间 </th><th > 地点 </th></tr>
-  </thead>
-  <tbody>
-    <tr><td>2000</td><td > 悉尼 </td></tr>
-    <tr><td>2004</td><td > 雅典 </td></tr>
-    <tr><td>2000</td><td > 北京 </td></tr>
-  </tbody>
-</table>
+</html>
 ```
 
 ## 参考与致谢

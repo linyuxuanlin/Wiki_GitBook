@@ -24,7 +24,7 @@
 * [Front-end](theory/front-end/README.md)
   * [自适应网页设计](theory/front-end/zi-kuo-ying-wang-ye-she-ji.md)
   * [CSS 学习笔记](theory/front-end/css-xue-xi-bi-ji.md)
-  * [HTML 环境搭建](theory/front-end/html-huan-jing-da-jian.md)
+  * [前端开发 - 环境搭建](theory/front-end/html-huan-jing-da-jian.md)
   * [HTML 学习笔记](theory/front-end/html-xue-xi-bi-ji.md)
 * [Command Line](theory/command-line/README.md)
   * [命令行基本操作](theory/command-line/ming-ling-hang-ji-ben-cao-zuo.md)
