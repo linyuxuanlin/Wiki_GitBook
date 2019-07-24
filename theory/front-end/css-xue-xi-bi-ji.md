@@ -72,83 +72,68 @@ font-size: 200%;
 
 ### 字体选用
 
+注：多单词组成的字体名称，要放引号，eg. 'Courier New'
+
 ```css
-
-
-
-
-
-
 /*字体选用*/
-
-
-/*多单词组成的字体名称，要放引号里*/
-
-
 /*本地*/
-
-font-family: 'Courier New',
-Courier,
-monospace,
-外链字体名称;
+font-family: 'Courier New',Courier,monospace,外链字体名称;
 
 /*外链*/
-
 @font-face {
     font-family: 外链字体名称;
     src: url('外链地址');
 }
+```
 
+### 文本格式化
 
-/*文本格式化，默认值为 normal*/
+默认值为 `normal`
 
-
+```css
 /*粗体*/
-
 font-weight: bold;
 
 /*斜体*/
-
 font-style: italic;
 
 /*大小写*/
-
-
 /*uppercase，lowercase，capitalize（首字母大写）*/
-
 text-transform: uppercase;
 
 /*下划线*/
-
 text-decoration: underline;
 
 /*删除线*/
-
 text-decoration: line-through;
 
 /*行间距*/
-
 line-height: 1.4em;
 
 /*对齐*/
-
-
 /*left,right,center,justify（两端对齐）*/
-
 text-align: left;
-
-/*链接样式*/
-
-
-/*:link,:visited*/
-
-a:link {
-    ...
-}
-
-
-/*:hover,:active,:focus 待补充*/
 ```
+
+### 伪类
+
+```css
+/* 未访问的链接 */
+a:link {color:#FF0000;} 
+
+/* 已访问的链接 */
+a:visited {color:#00FF00;} 
+
+/* 鼠标划过链接 */
+a:hover {color:#FF00FF;} 
+
+/* 已选中的链接 */
+a:active {color:#0000FF;} 
+```
+
+
+
+
 
 
 
