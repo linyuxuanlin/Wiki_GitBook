@@ -18,6 +18,7 @@
   * [一个舵机的自我修养](theory/arduino/yi-ge-duo-ji-de-zi-wo-xiu-yang.md)
   * [麦轮小车](theory/arduino/mai-lun-xiao-che.md)
 * [STM32](theory/stm32/README.md)
+  * [Keil MDK 配置指南](theory/stm32/keil-mdk-pei-zhi-zhi-nan.md)
   * [STM32 麦轮小车](theory/stm32/stm32-mai-lun-xiao-che.md)
 * [Raspberry Pi](theory/raspberry-pi/README.md)
   * [树莓派搭建云打印](theory/raspberry-pi/shu-mei-pai-da-jian-yun-da-yin.md)
