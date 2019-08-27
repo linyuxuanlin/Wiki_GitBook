@@ -50,6 +50,7 @@ description: Altium Designer 制版流程（基于 AD19）
   * 自动布局
     * 选中需要处理的元件
     * TOL
+  * 设置坐标原点（EOS）
 * 布线
   * 自动布线（UAA）（不推荐？）
   * 清除所有布线（UUA）
