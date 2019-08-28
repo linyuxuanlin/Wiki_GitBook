@@ -13,6 +13,7 @@
   * [AD19 流程规范](https://mubu.com/doc/biX0KWSHY)
   * [AD19 基本知识](https://mubu.com/doc/nyt3ETaXY)
   * [AD19 操作方法（快捷键）](https://mubu.com/doc/40mE7TDIs)
+  * [AD19 排错笔记](https://mubu.com/doc/g8CTp9CXY)
 * [Arduino](theory/arduino/README.md)
   * [小车游华广 - 比赛](theory/arduino/xiao-che-you-hua-guang-bi-sai.md)
   * [麦昆小车 - 测评](theory/arduino/mai-kun-xiao-che-ce-ping.md)
