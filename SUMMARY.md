@@ -37,6 +37,7 @@
 * [WeChat Mini Programs](theory/wechat-mini-programs/README.md)
   * [BookJourney - 二手书商城](theory/wechat-mini-programs/bookjourney-er-shou-shu-shang-cheng.md)
 * [Tools](theory/tools/README.md)
+  * [定制 VS Code](theory/tools/ding-zhi-vs-code.md)
   * [定制 Sublime Text 3](theory/tools/ding-zhi-sublimetext3.md)
   * [RSS - 一种生活方式](theory/tools/rss-yi-zhong-sheng-huo-fang-shi.md)
   * [用 Google Photos 管理照片](theory/tools/yong-googlephotos-guan-li-zhao-pian.md)
