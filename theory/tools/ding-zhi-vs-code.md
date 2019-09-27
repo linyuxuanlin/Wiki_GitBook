@@ -22,7 +22,10 @@
   * [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 * 实时页面（前端）
   * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-
+* 高亮缩进深度
+  * [Indenticator](https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator)
+* MySQL 数据库
+  * [MySQL](https://marketplace.visualstudio.com/items?itemName=formulahendry.vscode-mysql)
 
 
 
