@@ -2,7 +2,7 @@
 
 ## 下载 & 安装
 
-{% embed url="https://code.visualstudio.com/" %}
+{% embed url="https://code.visualstudio.com/" caption="" %}
 
 ## 插件
 
@@ -26,7 +26,4 @@
   * [Indenticator](https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator)
 * MySQL 数据库
   * [MySQL](https://marketplace.visualstudio.com/items?itemName=formulahendry.vscode-mysql)
-
-
-
 
