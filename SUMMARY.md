@@ -57,6 +57,7 @@
   * [读《黑客与画家》](literary/words/du-hei-ke-yu-hua-jia.md)
 * [Digest](literary/digest/README.md)
   * [Producter](literary/digest/producter.md)
+  * [且听风吟](literary/digest/qie-ting-feng-yin.md)
   * [小岛经济学](literary/digest/xiao-dao-jing-ji-xue.md)
   * [沉默的大多数](literary/digest/chen-mo-de-da-duo-shu.md)
   * [黄金时代](literary/digest/huang-jin-shi-dai.md)
