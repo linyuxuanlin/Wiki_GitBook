@@ -10,6 +10,7 @@
   * [THE Hack 2019](theory/hackathon/the-hack-2019.md)
   * [Hack.init\( \) 2017](theory/hackathon/wight-wu-lian-wang-lu-deng.md)
 * [Circuit Design](theory/circuit-design/README.md)
+  * [Altium Designer 系列教程（一）：环境搭建](theory/circuit-design/altium-designer-xi-lie-jiao-cheng-yi-huan-jing-da-jian.md)
   * [AD19 流程规范](https://mubu.com/doc/biX0KWSHY)
   * [AD19 基本知识](https://mubu.com/doc/nyt3ETaXY)
   * [AD19 操作方法（快捷键）](https://mubu.com/doc/40mE7TDIs)
