@@ -11,6 +11,7 @@
   * [Hack.init\( \) 2017](theory/hackathon/wight-wu-lian-wang-lu-deng.md)
 * [Circuit Design](theory/circuit-design/README.md)
   * [Altium Designer 系列教程（一）：环境搭建](theory/circuit-design/altium-designer-xi-lie-jiao-cheng-yi-huan-jing-da-jian.md)
+  * [Altium Designer 系列教程（二）：基础知识](theory/circuit-design/altium-designer-xi-lie-jiao-cheng-er-ji-chu-zhi-shi.md)
   * [ZenDriver - 电机驱动](theory/circuit-design/zendriver-dian-ji-qu-dong.md)
   * [AD19 流程规范](https://mubu.com/doc/biX0KWSHY)
   * [AD19 基本知识](https://mubu.com/doc/nyt3ETaXY)
