@@ -98,6 +98,8 @@
   * [双城记](literary/digest/shuang-cheng-ji.md)
   * [一九八四](literary/digest/1984.md)
   * [万万没想到](literary/digest/wan-wan-mei-xiang-dao.md)
+  * [富爸爸，穷爸爸](literary/digest/fu-ba-ba-qiong-ba-ba.md)
+  * [独裁者手册](literary/digest/du-cai-zhe-shou-ce-1.md)
   * [追风筝的人](literary/digest/zhui-feng-zheng-de-ren.md)
   * [三体](literary/digest/san-ti.md)
   * [反脆弱:从不确定性中获益](literary/digest/fan-cui-ruo-cong-bu-que-ding-xing-zhong-huo-yi.md)
