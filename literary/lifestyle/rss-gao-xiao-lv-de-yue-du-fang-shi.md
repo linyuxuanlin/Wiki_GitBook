@@ -1,6 +1,6 @@
 # RSS - 高效率的阅读方式
 
-##  RSS 是什么
+## RSS 是什么
 
 RSS 的全称是「简易内容聚合」（Really Simple Syndication），是一个能让你在一个地方订阅各种感兴趣网站的工具。
 
