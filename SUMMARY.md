@@ -103,6 +103,8 @@
   * [三体](test/digest/san-ti.md)
   * [反脆弱:从不确定性中获益](test/digest/fan-cui-ruo-cong-bu-que-ding-xing-zhong-huo-yi.md)
 * [观点](test/view/README.md)
+  * [未来路线](test/view/wei-lai-lu-xian.md)
   * [写作](test/view/xie-zuo.md)
+  * [财富](test/view/cai-fu.md)
   * [创业](test/view/chuang-ye-xiang-guan.md)
 
