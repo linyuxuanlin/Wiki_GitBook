@@ -102,4 +102,6 @@
   * [追风筝的人](test/digest/zhui-feng-zheng-de-ren.md)
   * [三体](test/digest/san-ti.md)
   * [反脆弱:从不确定性中获益](test/digest/fan-cui-ruo-cong-bu-que-ding-xing-zhong-huo-yi.md)
+* [观点](test/view/README.md)
+  * [创业相关](test/view/chuang-ye-xiang-guan.md)
 
