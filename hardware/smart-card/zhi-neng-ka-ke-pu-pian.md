@@ -28,6 +28,7 @@ NFC 技术主要特征如下：
   * **Mifare UID Chinese Magic Card（UID）：**高频卡，中国魔术卡，M1 变异版本，可修改 UID，可完整克隆 M1卡的数据；但现在有读卡系统可检测，屏蔽复制卡。
     * **FUID**：UID 只能修改一次，防屏蔽。
     * **CUID**：FUID 优化版，支持 UID 重复擦写，无需锁卡，自动起防屏蔽作用。
+  * **CPU**：CPU 卡由 CPU 部分（7K 容量）及 M1 部分（1K 容量）组成，可以读出其中的 M1 部分，CPU 部分目前无解。读出 M1 部分后，可将数据转写至 UID 卡使用
 
 ## 卡的数据
 
@@ -40,10 +41,11 @@ NFC 技术主要特征如下：
 **非加密卡**：所有扇区的 KEYA 和 KEYB 都是默认值 FFFFFFFFFFFF .  
 **加密卡**：其中有扇区的 KEYA 和 KEYB 不是 FFFFFFFFFFFF，部分扇区加密称半加密卡，所有扇区都加密称全加密卡。
 
-各种卡的返回信息：
+各种卡的特征（返回的信息）：
 
 * M1 S50：TYPE : NXP MIFARE CLASSIC 1k \| Plus 2k SL1
 * UID：Answers to chinese magic backdoor commands: YES
+* CPU：ATQA : 00 04；SAK : 28 \[1\]；TYPE : JCOP31 or JCOP41 v2.3.1
 
 ## 安全性测试
 
@@ -62,6 +64,10 @@ NFC 技术主要特征如下：
   * 利用 MFOC 漏洞，用已知扇区密匙求所有扇区密匙
   * 将数据写入 UID 卡
 
+### M1 原理
+
+跳转 [轻松理解 M1 卡的结构](https://pm3.echo.cool/index.php/2019/04/29/%e8%bd%bb%e6%9d%be%e7%90%86%e8%a7%a3m1%e5%8d%a1%e7%9a%84%e7%bb%93%e6%9e%84/) 。
+
 ## 写在后面
 
 > 只要有助于改进现状、探索未知，人们就应该被允许自由地使用各种工具和信息。 —— 《黑客与画家》
@@ -69,6 +75,10 @@ NFC 技术主要特征如下：
 ## 参考与致谢
 
 * [手把手教 如何模拟 IC 加密卡](https://zhuanlan.zhihu.com/p/81384126)
+* [CPU 模拟卡简单介绍](https://pm3.echo.cool/index.php/2019/03/23/cpu%e6%a8%a1%e6%8b%9f%e5%8d%a1%e7%ae%80%e5%8d%95%e4%bb%8b%e7%bb%8d/)
+* [Proxmark 实验室](https://pm3.echo.cool/)
+* [轻松理解 M1 卡的结构](https://pm3.echo.cool/index.php/2019/04/29/%e8%bd%bb%e6%9d%be%e7%90%86%e8%a7%a3m1%e5%8d%a1%e7%9a%84%e7%bb%93%e6%9e%84/)
+* [一篇文章讲清楚 ID，IC，M1，CPU 卡的区别](https://pm3.echo.cool/index.php/2019/04/29/%e4%b8%80%e7%af%87%e6%96%87%e7%ab%a0%e8%ae%b2%e6%b8%85%e6%a5%9aid%ef%bc%8cic%ef%bc%8cm1%ef%bc%8ccpu%e5%8d%a1%e7%9a%84%e5%8c%ba%e5%88%ab/)
 
 
 
