@@ -1,4 +1,4 @@
-# Altium Designer 系列教程（二）：原理图绘制
+# Altium Designer 系列教程（三）：原理图绘制
 
 ## 背景
 
