@@ -1,11 +1,11 @@
 ---
-description: 友情链接
+description: 我的朋友们
 ---
 
 # Links
 
 * [BOBI83](https://bobi.site/)
-* [WAI Tech Group](http://waitech.top)
+* [WAI Tech Group](http://waitech.top)：Stay Create.
 
 
 
