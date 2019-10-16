@@ -45,6 +45,7 @@
 
 * [生活方式](life/lifestyle/README.md)
   * [博客转至 GitBook](life/lifestyle/zhuan-zhi-gitbook.md)
+  * [英语六级 - 备考](life/lifestyle/ying-yu-liu-ji-bei-kao.md)
   * [浅谈 Bitcron 博客平台](life/lifestyle/qian-tan-bitcron-bo-ke-ping-tai.md)
   * [RSS - 高效率的阅读方式](life/lifestyle/rss-gao-xiao-lv-de-yue-du-fang-shi.md)
   * [把回忆放心交给 Google Photos](life/lifestyle/ba-hui-yi-fang-xin-jiao-gei-googlephotos.md)
