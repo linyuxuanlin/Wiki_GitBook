@@ -11,7 +11,7 @@
   * [Altium Designer 系列教程（一）：环境搭建](hardware/circuit-design/altium-designer-xi-lie-jiao-cheng-yi-huan-jing-da-jian.md)
   * [Altium Designer 系列教程（二）：基础知识](hardware/circuit-design/altium-designer-xi-lie-jiao-cheng-er-ji-chu-zhi-shi.md)
   * [Altium Designer 系列教程（三）：原理图绘制](hardware/circuit-design/altium-designer-xi-lie-jiao-cheng-er-yuan-li-tu-hui-zhi.md)
-  * [ZenDriver - 电机驱动](hardware/circuit-design/zendriver-dian-ji-qu-dong.md)
+  * [ZenDriver Mini - 电机驱动](hardware/circuit-design/zendriver-dian-ji-qu-dong.md)
   * [AD19 排错笔记](https://mubu.com/doc/g8CTp9CXY)
 * [Arduino](hardware/arduino/README.md)
   * [小车游华广 - 比赛](hardware/arduino/xiao-che-you-hua-guang-bi-sai.md)
