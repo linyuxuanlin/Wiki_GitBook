@@ -33,3 +33,27 @@
 
 
 
+## 背单词
+
+### 方法
+
+#### 学术法
+
+根据拼读：
+
+1. 直接拼读单词（三遍）
+2. 直接记忆中文含义（三遍）
+3. 联想造句
+
+词根法：
+
+1. 前缀：in/in 里，ex/e 外，dis/di 分，com/con/col/co 合，de 数量下，sup/sub/sur/sus 位置下，pre/pro/pri 位置前，re 反复/返回，per 每一，en 使…
+
+### 听力单词
+
+抓关键词：actually/cause/although/still
+
+
+
+
+
