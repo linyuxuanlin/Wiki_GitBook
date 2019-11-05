@@ -8,7 +8,8 @@
 
 * [TI 参考](http://www.ti.com.cn/cn/reference-designs/index.html#search?)
 * [各种在线计算工具](https://tool.520101.com/dianlu/diangonglv/)
-* 
+* [立创开源参考](https://lceda.cn/explore)
+
 
 
 
