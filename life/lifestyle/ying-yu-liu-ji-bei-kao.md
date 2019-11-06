@@ -53,7 +53,32 @@
 
 抓关键词：actually/cause/although/still
 
+## 写作词汇
 
+* 实现某人精神上的升华: increase one's' spiritual level
+* 人际交往: interpersonal communication
+* 思辨能力: critical thinking ability 
+* 换位思考: put oneself in others' shoes
+* 学习能力: learning ability 
+* 将心比心: be aware of others' feelings
+* 大学学历: university degree 
+* 体谅他人: be empathetic to others
+* 职业规划: career planning 
+* 急人之所急: put oneself in others'place
+* 丰富人生: enrich life 
+* 关爱和包容: love and inclusivenes
+* 培养开放通达的气质: cultivate open-mindedness- 
+* 倾向于: tend to/ be inclined to do sth.
+* 培养独立自主的能力: cultivate independence 
+* 尽力做: attempt to do sth. 
+* 脚踏实地的努力: the down-to-earth efforts 
+* 博大胸怀: generous heart 
+* 是金子总会发光: cream always rises to the top 
+* 宽大为怀: benevolent 
+* 取得显著进步: make remarkable progress 
+* 推己及人: considerate 
+* 主动付出时间: volunteer ones' time 
+* 包容: tolerate
 
 
 
