@@ -19,9 +19,7 @@
 安装 CUPS 插件：
 
 ```text
-$ sudo apt-get install cups
-$ sudo cupsctl --remote-any
-$ sudo /etc/init.d/cups restart
+$ sudo apt-get install cups$ sudo cupsctl --remote-any$ sudo /etc/init.d/cups restart
 ```
 
 查看树莓派当前 IP 地址：

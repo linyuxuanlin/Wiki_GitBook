@@ -39,15 +39,7 @@ h1 { font-size: 1.5em; }
 各个区块的位置都是浮动的，而非固定不变的。
 
 ```text
-.main {
-    float: right;
-    width: 70%; 
-}
-
-.leftBar {
-    float: left;
-    width: 25%;
-}
+.main {    float: right;    width: 70%; }.leftBar {    float: left;    width: 25%;}
 ```
 
 [float](http://designshack.net/articles/css/everything-you-never-knew-about-css-floats/) 的好处是，如果宽度太小，放不下两个元素，后面的元素会自动滚动到前面元素的下方，不会在水平方向 overflow（溢出），避免了水平滚动条的出现。
@@ -59,17 +51,13 @@ h1 { font-size: 1.5em; }
 如果屏幕宽度小于 400 像素（max-device-width: 400px），就加载 tinyScreen.css 文件**：**
 
 ```text
-<link rel="stylesheet" type="text/css"
-　　　　media="screen and (max-device-width: 400px)"
-　　　　href="tinyScreen.css" />
+<link rel="stylesheet" type="text/css"　　　　media="screen and (max-device-width: 400px)"　　　　href="tinyScreen.css" />
 ```
 
 如果屏幕宽度在 400 像素到 600 像素之间，则加载 smallScreen.css 文件:
 
 ```text
-<link rel="stylesheet" type="text/css"
-　　　　media="screen and (min-width: 400px) and (max-device-width: 600px)"
-　　　　href="smallScreen.css" />
+<link rel="stylesheet" type="text/css"　　　　media="screen and (min-width: 400px) and (max-device-width: 600px)"　　　　href="smallScreen.css" />
 ```
 
 ###  **图片的自适应（fluid image）**

@@ -43,16 +43,7 @@
 找一块 Arduino 板子，给它烧进一段让舵机回到中位的程序：
 
 ```cpp
-//by Lin
-#include <Servo.h>
-Servo myservo;
-void setup() {
-  myservo.attach(9);//舵机连接Arduino的D9
-}
-
-void loop() {
-  myservo.write(90); //让舵机回到中位
-}
+//by Lin#include <Servo.h>Servo myservo;void setup() {  myservo.attach(9);//舵机连接Arduino的D9}void loop() {  myservo.write(90); //让舵机回到中位}
 ```
 
 ![](https://image-backup-1253965369.cos.ap-guangzhou.myqcloud.com/一个舵机的自我修养/2218072-41374b07e5f87b06.png) 
@@ -76,23 +67,7 @@ void loop() {
 烧入以下代码：
 
 ```cpp
-#include <Servo.h>
-Servo myservo;
-int pos = 0;
-void setup() {
-  myservo.attach(9);
-  }
-void loop() {
-  for (pos = 0; pos <= 180; pos += 1) {
-    // in steps of 1 degree
-    myservo.write(pos);
-    delay(15);
-  }
-  for (pos = 180; pos >= 0; pos -= 1) {
-    myservo.write(pos);
-    delay(15);
-  }
-}
+#include <Servo.h>Servo myservo;int pos = 0;void setup() {  myservo.attach(9);  }void loop() {  for (pos = 0; pos <= 180; pos += 1) {    // in steps of 1 degree    myservo.write(pos);    delay(15);  }  for (pos = 180; pos >= 0; pos -= 1) {    myservo.write(pos);    delay(15);  }}
 ```
 
 舵机状态：舵机加速—减速—反方向加速—减速......
@@ -108,14 +83,7 @@ void loop() {
 在需要舵机工作时，使用 `attach()` 函数，在舵机工作完毕后，使用 `detach()` 函数。
 
 ```cpp
-{
-    servo.attach(9);
-    servo.write(pos);
-    delay(250);
-
-    //断开舵机连接，防止发出声音
-    servo.detach();
-}
+{    servo.attach(9);    servo.write(pos);    delay(250);    //断开舵机连接，防止发出声音    servo.detach();}
 ```
 
 ## FAQ
