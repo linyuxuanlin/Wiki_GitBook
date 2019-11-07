@@ -38,6 +38,8 @@
   * [自适应网页设计](software/front-end/zi-kuo-ying-wang-ye-she-ji.md)
   * [Node.js 和 npm 的安装与卸载（MacOS）](software/front-end/node.js-he-npm-de-an-zhuang-yu-xie-zai-macos.md)
   * [前端开发 - 环境搭建](software/front-end/html-huan-jing-da-jian.md)
+* [产品经理](software/chan-pin-jing-li/README.md)
+  * [画图基础](software/chan-pin-jing-li/hua-tu-ji-chu.md)
 * [微信小程序](software/wechat-mini-programs/README.md)
   * [BookJourney - 二手书商城](software/wechat-mini-programs/bookjourney-er-shou-shu-shang-cheng.md)
 * [命令行](software/command-line/README.md)
