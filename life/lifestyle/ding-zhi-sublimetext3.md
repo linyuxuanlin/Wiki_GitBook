@@ -40,7 +40,8 @@ Sublime Text 3 可从[官网](http://www.sublimetext.com/)下载（推荐下载[
 我使用的暗色主题：用 `Package Control` 搜索 `Spacegray` 和 `Afterglow` ，在用户设置里替换为：
 
 ```text
-"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme","theme": "Afterglow-green.sublime-theme"
+"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+"theme": "Afterglow-green.sublime-theme"
 ```
 
 ### 细节调整
@@ -48,7 +49,14 @@ Sublime Text 3 可从[官网](http://www.sublimetext.com/)下载（推荐下载[
 在用户设置里可添加如下代码：
 
 ```text
-"word_wrap": "true", // 被遮挡自动换行"fold_buttons": true, // 开启代码折叠"fade_fold_buttons": true, // 折叠按钮自动隐藏"tab_size": 4, // tab 缩进位数"margin": 4, // 缩进"tabs_small": true, // 使标签栏变小"trim_trailing_white_space_on_save": true, // 自动移除行尾多余空格"ensure_newline_at_eof_on_save": true, // 文件末尾自动保留一个空行，C 语言可用
+"word_wrap": "true", // 被遮挡自动换行
+"fold_buttons": true, // 开启代码折叠
+"fade_fold_buttons": true, // 折叠按钮自动隐藏
+"tab_size": 4, // tab 缩进位数
+"margin": 4, // 缩进
+"tabs_small": true, // 使标签栏变小
+"trim_trailing_white_space_on_save": true, // 自动移除行尾多余空格
+"ensure_newline_at_eof_on_save": true, // 文件末尾自动保留一个空行，C 语言可用
 ```
 
 ### 推荐插件
@@ -58,7 +66,13 @@ Sublime Text 3 可从[官网](http://www.sublimetext.com/)下载（推荐下载[
 **StyleToken**：显示代码所代表的颜色（RGB） **FileHeader**：自定义文件模板 打开 `Preferences -> Package Settings -> FileHeader -> Settings - User` ，把 `Default` 里的内容拷贝到 `User` ,并修改个人信息如：
 
 ```text
-{    "Default": {        "author": "linyuxuanlin",        "email": "824676271@qq.com",        "website": "yxrct.com"    }}
+{
+    "Default": {
+        "author": "linyuxuanlin",
+        "email": "824676271@qq.com",
+        "website": "yxrct.com"
+    }
+}
 ```
 
 在 `Preferences -> Browse Packages... -> FileHeader -> template -> header 或 body` 中修改模板内容。 效果：  
@@ -69,7 +83,15 @@ Sublime Text 3 可从[官网](http://www.sublimetext.com/)下载（推荐下载[
 由于自带编译器没有用户输入，所以这里需要一个插件：`SublimeREPL`. 直接 用 `Package Control` 安装，并在 `Preferences —> Key Buildings -> User` 下添加快捷键唤醒：
 
 ```text
-[    { "keys": ["f5"], "caption": "SublimeREPL:Python",                      "command": "run_existing_window_command", "args":                      {                           "id": "repl_python_run",                           "file": "config/Python/Main.sublime-menu"                      }    },]
+[
+    { "keys": ["f5"], "caption": "SublimeREPL:Python",
+                      "command": "run_existing_window_command", "args":
+                      {
+                           "id": "repl_python_run",
+                           "file": "config/Python/Main.sublime-menu"
+                      }
+    },
+]
 ```
 
 之后，在 Python 代码里可直接按 `F5` 运行。

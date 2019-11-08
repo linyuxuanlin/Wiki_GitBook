@@ -23,7 +23,9 @@ macOS 安装：`$ brew install graphviz`
 ## 简易语法
 
 ```text
-graph graph_name {  A--B[label="连接关系"]}
+graph graph_name {
+  A--B[label="连接关系"]
+}
 ```
 
 ![](https://image-backup-1253965369.cos.ap-guangzhou.myqcloud.com/Graphviz/屏幕快照%202019-02-01%20下午2.02.44.png)
