@@ -164,14 +164,14 @@ description: test
 
 **从句**：（连词）+ 句子
 
+主动时态：
+
 | 时间/状态 | 完成 | 进行 | 一般 | 完成进行 |
 | :--- | :--- | :--- | :--- | :--- |
 | 过去 | had + Ved | was / were + Ving | Ved |  |
 | 现在 | have / has + Ved | be + Ving | V / Vs / Ves | have / has + been + Ving |
 | 将来 | will + have + Ved | will + be + Ving | will + V |  |
 | 过去将来 | should / would + have + Ved | should / would + be + Ving | should / would + V | should / would + have + been + Ving |
-
-
 
 
 
