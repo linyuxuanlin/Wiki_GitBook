@@ -156,6 +156,21 @@ description: test
 
 #### 1. 基本语法
 
+**谓语动词**：一个句子有且仅有一个（拆解复合句）
+
+**非谓语动词**：to do 不定式；-ing 形式表动词名词或现在分词；-ed 表示过去分词
+
+**介词短语**：介词+n./ving（一定要接名词才完整）
+
+**从句**：（连词）+ 句子
+
+| 时间/状态 | 完成 | 进行 | 一般 | 完成进行 |
+| :--- | :--- | :--- | :--- | :--- |
+| 过去 | had + Ved | was / were + Ving | Ved |  |
+| 现在 | have / has + Ved | be + Ving | V / Vs / Ves | have / has + been + Ving |
+| 将来 | will + have + Ved | will + be + Ving | will + V |  |
+| 过去将来 | should / would + have + Ved | should / would + be + Ving | should / would + V | should / would + have + been + Ving |
+
 
 
 
