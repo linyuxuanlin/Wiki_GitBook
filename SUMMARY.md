@@ -40,6 +40,7 @@
   * [前端开发 - 环境搭建](software/front-end/html-huan-jing-da-jian.md)
 * [产品经理](software/chan-pin-jing-li/README.md)
   * [日常](software/chan-pin-jing-li/ri-chang.md)
+  * [中台的概念](software/chan-pin-jing-li/zhong-tai-de-gai-nian.md)
   * [画图基础](software/chan-pin-jing-li/hua-tu-ji-chu.md)
 * [微信小程序](software/wechat-mini-programs/README.md)
   * [BookJourney - 二手书商城](software/wechat-mini-programs/bookjourney-er-shou-shu-shang-cheng.md)
