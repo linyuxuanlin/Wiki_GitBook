@@ -23,6 +23,7 @@
   * [麦轮小车](hardware/arduino/mai-lun-xiao-che.md)
 * [STM32](hardware/stm32/README.md)
   * [Keil MDK 配置指南](hardware/stm32/keil-mdk-pei-zhi-zhi-nan.md)
+  * [Doxygen 注释规范](hardware/stm32/doxygen-zhu-shi-gui-fan.md)
   * [STM32 麦轮小车](hardware/stm32/stm32-mai-lun-xiao-che.md)
 * [Raspberry Pi](hardware/raspberry-pi/README.md)
   * [云打印服务器搭建](hardware/raspberry-pi/yun-da-yin-fu-wu-qi-da-jian.md)
