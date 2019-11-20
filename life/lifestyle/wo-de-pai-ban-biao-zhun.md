@@ -71,4 +71,5 @@ Q：为什么要搞这么个玩意儿？不觉得很繁琐吗？ A：主要是�
 * [译文排版规则指北](https://github.com/xitu/gold-miner/wiki/%E8%AF%91%E6%96%87%E6%8E%92%E7%89%88%E8%A7%84%E5%88%99%E6%8C%87%E5%8C%97)
 * [中文文案排版指北](https://github.com/mzlogin/chinese-copywriting-guidelines)
 * [有必要了解的中文排版规范](https://www.jianshu.com/p/fe97e3f2cda9)
+* [文案风格指南](https://open.leancloud.cn/copywriting-style-guide/)
 
