@@ -6,6 +6,7 @@ description: 我的朋友们
 
 * [BOBI83](https://bobi.site/)
 * [WAI Tech Group](http://waitech.top)：Stay Create.
+* [OceanEye's Blog](http://blog.oceaneye.moe/)
 
 
 
