@@ -16,6 +16,8 @@
   * [PCB 名片设计](hardware/circuit-design/pcb-ming-pian-she-ji.md)
   * [焊接大赛培训及总结](hardware/circuit-design/ying-jian-ji-han-jie-ji-chu-ke.md)
   * [有用的资料收集](hardware/circuit-design/you-yong-de-zi-liao-shou-ji.md)
+* [无人机](hardware/wu-ren-ji/README.md)
+  * [N3 参数调试](hardware/wu-ren-ji/n3-can-shu-tiao-shi.md)
 * [Arduino](hardware/arduino/README.md)
   * [小车游华广 - 比赛](hardware/arduino/xiao-che-you-hua-guang-bi-sai.md)
   * [麦昆小车 - 测评](hardware/arduino/mai-kun-xiao-che-ce-ping.md)
