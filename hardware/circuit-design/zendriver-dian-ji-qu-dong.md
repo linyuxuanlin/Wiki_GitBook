@@ -2,7 +2,7 @@
 description: 用户手册，更新至 V5.1 Release 版本
 ---
 
-# ZenDriver Mini - 电机驱动
+# ZenDriver - 高性能的电机驱动
 
 ## 基本参数
 

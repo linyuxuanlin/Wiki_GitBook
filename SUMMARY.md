@@ -12,7 +12,7 @@
   * [Altium Designer 系列教程（二）：基础知识](hardware/circuit-design/altium-designer-xi-lie-jiao-cheng-er-ji-chu-zhi-shi.md)
   * [Altium Designer 系列教程（三）：原理图绘制](hardware/circuit-design/altium-designer-xi-lie-jiao-cheng-er-yuan-li-tu-hui-zhi.md)
   * [AD19 排错笔记](https://mubu.com/doc/g8CTp9CXY)
-  * [ZenDriver Mini - 电机驱动](hardware/circuit-design/zendriver-dian-ji-qu-dong.md)
+  * [ZenDriver - 高性能的电机驱动](hardware/circuit-design/zendriver-dian-ji-qu-dong.md)
   * [PCB 名片设计](hardware/circuit-design/pcb-ming-pian-she-ji.md)
   * [焊接大赛培训及总结](hardware/circuit-design/ying-jian-ji-han-jie-ji-chu-ke.md)
   * [有用的资料收集](hardware/circuit-design/you-yong-de-zi-liao-shou-ji.md)
