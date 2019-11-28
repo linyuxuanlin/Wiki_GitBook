@@ -39,6 +39,10 @@ description: 用户手册，更新至 V5.1 Release 版本
 4. 引脚 **IN1，IN2** 接单片机 PWM 端口
 5. 用代码调试
 
+## 源文件
+
+PCB 工程已开源至 GitHub：[https://github.com/linyuxuanlin/ZenDriver](https://github.com/linyuxuanlin/ZenDriver)
+
 ## 花絮
 
 经历了五个大版本、三十多个小版本的迭代，印坏了几十块电路板，终于出来了第一个 Release 版本。感谢彬哥的指点，感谢 Bobi 和柔柔的悉心帮助，我才得以坚持下来。
