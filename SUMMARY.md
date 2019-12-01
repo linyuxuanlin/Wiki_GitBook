@@ -63,6 +63,7 @@
   * [我的排版标准](life/lifestyle/wo-de-pai-ban-biao-zhun.md)
   * [定制 Sublime Text 3](life/lifestyle/ding-zhi-sublimetext3.md)
   * [定制 VS Code](life/lifestyle/ding-zhi-vs-code.md)
+  * [华广爬楼指北](life/lifestyle/hua-guang-pa-lou-zhi-bei.md)
   * [读《黑客与画家》](life/lifestyle/du-hei-ke-yu-hua-jia.md)
 * [比赛经历](life/hackathon/README.md)
   * [THE Hack 2019](life/hackathon/the-hack-2019.md)
