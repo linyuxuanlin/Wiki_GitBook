@@ -13,8 +13,6 @@ description: 用户手册，更新至 V5.1 Release 版本
 
 ## 接口定义
 
-
-
 ![](https://picgo-1253965369.cos.ap-guangzhou.myqcloud.com/UTOOLS1574931679586.png)
 
 **电机端** 从左到右依次为：**M-，5V，编码器 A，编码器 B，GND，M+** ，对应电机引脚，可以直接怼电机上去。
@@ -45,9 +43,7 @@ PCB 工程已开源至 GitHub：[https://github.com/linyuxuanlin/ZenDriver](http
 
 ## 花絮
 
-经历了五个大版本、三十多个小版本的迭代，印坏了几十块电路板，终于出来了第一个 Release 版本。感谢彬哥的指点，感谢 Bobi 和柔柔的悉心帮助，我才得以坚持下来。
-
-
+经历了五个大版本、三十多个小版本的迭代，印坏了几十块电路板，终于出来了第一个 Release 版本。在此感谢彬哥的指点，以及 Bobi 和柔柔的悉心帮助，这个项目使我受益良多。
 
 ![](https://picgo-1253965369.cos.ap-guangzhou.myqcloud.com/UTOOLS1574931537902.png)
 

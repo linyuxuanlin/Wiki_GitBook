@@ -30,8 +30,6 @@
   * [STM32 麦轮小车](hardware/stm32/stm32-mai-lun-xiao-che.md)
 * [Raspberry Pi](hardware/raspberry-pi/README.md)
   * [云打印服务器搭建](hardware/raspberry-pi/yun-da-yin-fu-wu-qi-da-jian.md)
-* [Smart Card](hardware/smart-card/README.md)
-  * [智能卡-科普篇](hardware/smart-card/zhi-neng-ka-ke-pu-pian.md)
 
 ## Software
 
