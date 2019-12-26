@@ -70,6 +70,7 @@
 * [摘录](life/digest/README.md)
   * [Producter](life/digest/producter.md)
   * [且听风吟](life/digest/qie-ting-feng-yin.md)
+  * [爱因斯坦的梦](life/digest/ai-yin-si-tan-de-meng.md)
   * [小岛经济学](life/digest/xiao-dao-jing-ji-xue.md)
   * [沉默的大多数](life/digest/chen-mo-de-da-duo-shu.md)
   * [黄金时代](life/digest/huang-jin-shi-dai.md)
