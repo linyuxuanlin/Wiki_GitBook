@@ -7,6 +7,7 @@
 ## Hardware
 
 * [电路设计](hardware/circuit-design/README.md)
+  * [TinyDVR - 小巧身材，满载动力](hardware/circuit-design/tinydvr-xiao-qiao-ling-long-man-zai-dong-li.md)
   * [ZenDriver - 高性能的电机驱动](hardware/circuit-design/zendriver-dian-ji-qu-dong.md)
   * [Altium Designer 系列教程（一）：环境搭建](hardware/circuit-design/altium-designer-xi-lie-jiao-cheng-yi-huan-jing-da-jian.md)
   * [Altium Designer 系列教程（二）：基础知识](hardware/circuit-design/altium-designer-xi-lie-jiao-cheng-er-ji-chu-zhi-shi.md)
