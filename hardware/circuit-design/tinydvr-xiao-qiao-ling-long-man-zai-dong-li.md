@@ -25,11 +25,12 @@ TinyDVR 是一款电机驱动套件，包含母板（Master）与子板（Slave�
 
 ### TinyDVR Master
 
-![https://github.com/linyuxuanlin/TinyDVR/raw/master/.src/master](.src/master.png)
+![https://github.com/linyuxuanlin/TinyDVR/raw/master/.src/master](https://github.com/linyuxuanlin/TinyDVR/raw/master/.src/master)
 
 ### TinyDVR Slave
 
-![https://github.com/linyuxuanlin/TinyDVR/raw/master/.src/slave](.src/slave.png) 背面引脚详解：
+![https://github.com/linyuxuanlin/TinyDVR/raw/master/.src/slave](https://github.com/linyuxuanlin/TinyDVR/raw/master/.src/slave)
+背面引脚详解：
 
 * \+ ：提供 5V / 3A 的电源输出
 * 1 ：IN1 端口，输入 PWM 信号 1
@@ -52,5 +53,5 @@ TinyDVR 是一款电机驱动套件，包含母板（Master）与子板（Slave�
 5. 在对应的子板处接上电机
 6. 共地（驱动板 GND 接单片机 GND）
 7. IN1，IN2 端口接单片机对应 PWM 端口（代码内设置）
-8. 用代码调试：请见 Github 仓库内的 **测试例程**
+8. 用代码调试：请见 [Github 仓库](https://github.com/linyuxuanlin/TinyDVR) 内的 **测试例程**
 
