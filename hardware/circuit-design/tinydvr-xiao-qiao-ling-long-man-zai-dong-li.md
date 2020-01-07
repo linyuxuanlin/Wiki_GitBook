@@ -25,11 +25,11 @@ TinyDVR 是一款电机驱动套件，包含母板（Master）与子板（Slave�
 
 ### TinyDVR Master
 
-![2](https://github.com/linyuxuanlin/TinyDVR/raw/master/.src/master.jpg)
+![2](https://github.com/linyuxuanlin/TinyDVR/raw/master/.src/master.png)
 
 ### TinyDVR Slave
 
-![3](https://github.com/linyuxuanlin/TinyDVR/raw/master/.src/slave.jpg)
+![3](https://github.com/linyuxuanlin/TinyDVR/raw/master/.src/slave.png)
 背面引脚详解：
 
 * \+ ：提供 5V / 3A 的电源输出
