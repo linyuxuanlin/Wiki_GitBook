@@ -8,7 +8,7 @@ description: 基于 TinyDVR Master V1.1 & Slave V7.2 Release
 ## TinyDVR - 小巧身材，满载动力
 
 
-![master](https://github.com/linyuxuanlin/TinyDVR/raw/master/.src/raw.jpg)
+![1](https://github.com/linyuxuanlin/TinyDVR/raw/master/.src/raw.jpg)
 
 TinyDVR 是一款电机驱动套件，包含母板（Master）与子板（Slave），供电部分与驱动部分分离，相比前身 ZenDriver 大幅度缩减了体积，极大提升了可拓展性。你可以根据自己的需要，堆叠不同数量的子板，驱动 n 个电机。
 
@@ -25,11 +25,11 @@ TinyDVR 是一款电机驱动套件，包含母板（Master）与子板（Slave�
 
 ### TinyDVR Master
 
-![https://github.com/linyuxuanlin/TinyDVR/raw/master/.src/master](https://github.com/linyuxuanlin/TinyDVR/raw/master/.src/master)
+![2](https://github.com/linyuxuanlin/TinyDVR/raw/master/.src/master.jpg)
 
 ### TinyDVR Slave
 
-![https://github.com/linyuxuanlin/TinyDVR/raw/master/.src/slave](https://github.com/linyuxuanlin/TinyDVR/raw/master/.src/slave)
+![3](https://github.com/linyuxuanlin/TinyDVR/raw/master/.src/slave.jpg)
 背面引脚详解：
 
 * \+ ：提供 5V / 3A 的电源输出
