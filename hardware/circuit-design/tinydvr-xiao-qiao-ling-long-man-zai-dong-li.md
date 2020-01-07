@@ -30,6 +30,7 @@ TinyDVR 是一款电机驱动套件，包含母板（Master）与子板（Slave�
 ### TinyDVR Slave
 
 ![3](https://github.com/linyuxuanlin/TinyDVR/raw/master/.src/slave.png)
+
 背面引脚详解：
 
 * \+ ：提供 5V / 3A 的电源输出
@@ -47,7 +48,7 @@ TinyDVR 是一款电机驱动套件，包含母板（Master）与子板（Slave�
 2. 在对应的子板处接上电机
 3. 用 **5V** 供电口分别接 **IN1/ IN2** 端口，此时电机将 **正 / 反转**
 
-   **连接单片机**
+### 连接单片机
 
 4. 接入 **7.2 ~ 20 V** 电池供电
 5. 在对应的子板处接上电机
