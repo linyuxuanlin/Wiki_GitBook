@@ -20,7 +20,7 @@
   * [N3 参数调试](hardware/wu-ren-ji/n3-can-shu-tiao-shi.md)
 * [Arduino](hardware/arduino/README.md)
   * [小车游华广 - 比赛](hardware/arduino/xiao-che-you-hua-guang-bi-sai.md)
-  * [麦昆小车 - 测评asd](hardware/arduino/mai-kun-xiao-che-ce-ping.md)
+  * [麦昆小车 - 测评](hardware/arduino/mai-kun-xiao-che-ce-ping.md)
   * [T-Clock 桌上小钟](hardware/arduino/tclock-zhuo-shang-xiao-zhong.md)
   * [一个舵机的自我修养](hardware/arduino/yi-ge-duo-ji-de-zi-wo-xiu-yang.md)
   * [麦轮小车](hardware/arduino/mai-lun-xiao-che.md)
