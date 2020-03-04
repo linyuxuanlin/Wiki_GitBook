@@ -65,7 +65,6 @@
 ## Life
 
 * **效率**
-  * [如何保存易逝的文字](post/效率/如何保存易逝的文字)
   * [文章排版规范](post/效率/文章排版规范.md)
   * [基于 docsify 搭建个人 Wiki](post/效率/基于docsify搭建个人Wiki.md)
   * [用 Graphviz 绘制关系图](post/效率/用Graphviz绘制关系图.md)
