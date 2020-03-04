@@ -1,9 +1,21 @@
-# Introduction
+# Power's Wiki
 
-Hello there :D  
-这儿是我的 Wiki ，记录着个人所学知识，并将其结构化。 
+---
 
-对知识的记录与归纳，以前我用的是 Blog 的形式。后来逐渐发现，博客记录下来的知识很零散。于是，我改用 Wiki 的形式，用一种分类结构化、系统化的方法来管理我的知识。
+Hello!
 
-历经 `WordPress`,`Hexo`,`Jekyll`,`Bitcron` 等博客平台，现在我用的是 `GitBook` 这种一站式的平台，虽然国内访问速度慢，但方便且数据安全，不必花太多心思折腾，从而更加注重于文章内容的质量。
+这儿是我的图书馆，我将学到的知识结构化归档于此。  
+你可以阅读感兴趣的文章，也可以在底部评论区畅所欲言。
+
+一个不会烘培的产品经理不是一个合格的硬件工程师 :coffee:
+
+
+
+你可以通过以下的方式联系到我：  
+    **Telegram**：https://t.me/linyuxuanlin  
+    **GitHub**：https://github.com/linyuxuanlin  
+    **WeChat**：linyuxuanlin  
+
+Power's Wiki 基于 Docsify, 并托管于 Github Pages.  
+因 Docsify 即时渲染的特性，在部分设备加载速度较慢，请谅解。
 

@@ -1,21 +1,36 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Contact me](contact-me.md)
-* [Links](links.md)
+* [Task board](https://trello.com/b/0QeKClyr)
+* [Collection](Collection.md)
+* [Tools](Tools.md)
 
-## Work
+---
+
+
 
 * [电路设计](hardware/circuit-design/README.md)
-  * [TinyDVR - 小巧身材，满载动力](hardware/circuit-design/tinydvr-xiao-qiao-ling-long-man-zai-dong-li.md)
-  * [ZenDriver - 高性能的电机驱动](hardware/circuit-design/zendriver-dian-ji-qu-dong.md)
-  * [Altium Designer 系列教程（一）：环境搭建](hardware/circuit-design/altium-designer-xi-lie-jiao-cheng-yi-huan-jing-da-jian.md)
-  * [Altium Designer 系列教程（二）：基础知识](hardware/circuit-design/altium-designer-xi-lie-jiao-cheng-er-ji-chu-zhi-shi.md)
-  * [Altium Designer 系列教程（三）：原理图绘制](hardware/circuit-design/altium-designer-xi-lie-jiao-cheng-er-yuan-li-tu-hui-zhi.md)
-  * [AD19 排错笔记](https://mubu.com/doc/g8CTp9CXY)
-  * [PCB 名片设计](hardware/circuit-design/pcb-ming-pian-she-ji.md)
-  * [焊接大赛培训及总结](hardware/circuit-design/ying-jian-ji-han-jie-ji-chu-ke.md)
-  * [有用的资料收集](hardware/circuit-design/you-yong-de-zi-liao-shou-ji.md)
+  * [STM32 系统硬件电路设计](post/电路设计/STM32系统硬件电路设计.md)
+  * [SwiftCtrl - 蓝牙手柄](post/电路设计/SwiftCtrl-蓝牙手柄.md)
+  * [TinyDVR - 小巧身材，满载动力](post/电路设计/TinyDVR-小巧身材，满载动力.md)
+  * [ZenDriver - 高性能的电机驱动](post/电路设计/ZenDriver-高性能的电机驱动.md)
+  * [PCB 布线规范](post/电路设计/PCB布线规范.md)
+  * [PCB 元件布局规范](post/电路设计/PCB元件布局规范.md)
+  * [函数思想在电路设计中的应用](post/电路设计/函数思想在电路设计中的应用.md)
+  * [基本元器件选型](post/电路设计/基本元器件选型.md)
+  * [电源的设计](post/电路设计/电源的设计.md)
+  * [AD 小技巧整理](post/电路设计/AD小技巧整理.md)
+  * [AD 入门系列一：环境搭建](post/电路设计/AD入门系列一：环境搭建.md)
+  * [AD 入门系列二：基础知识](post/电路设计/AD入门系列二：基础知识.md)
+  * [AD 入门系列三：原理图绘制](post/电路设计/AD入门系列三：原理图绘制.md)
+  * [AD 入门系列四：PCB 绘制](post/电路设计/AD入门系列四：PCB绘制.md)
+  * [AD 入门系列五：库文件绘制](post/电路设计/AD入门系列五：库文件绘制.md)
+  * [自制 CMSIS-DAP](post/电路设计/自制CMSIS-DAP.md)
+  * [PCB 名片设计](post/电路设计/PCB名片设计.md)
+  * [焊接比赛：培训及总结](post/电路设计/焊接比赛：培训及总结.md)
+
+
+
 * [无人机](hardware/wu-ren-ji/README.md)
   * [N3 参数调试](hardware/wu-ren-ji/n3-can-shu-tiao-shi.md)
 * [Arduino](hardware/arduino/README.md)
