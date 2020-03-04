@@ -4,7 +4,7 @@
 * [Contact me](contact-me.md)
 * [Links](links.md)
 
-## Hardware
+## Work
 
 * [电路设计](hardware/circuit-design/README.md)
   * [TinyDVR - 小巧身材，满载动力](hardware/circuit-design/tinydvr-xiao-qiao-ling-long-man-zai-dong-li.md)
