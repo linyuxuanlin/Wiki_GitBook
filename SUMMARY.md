@@ -145,3 +145,9 @@
   * [财富](post/言论/财富.md)
   * [创业](post/言论/创业.md)
   * [个人发展](post/言论/个人发展.md)
+
+## 友链
+* [![](https://icongr.am/feather/code.svg?size=16&color=808080)BUG-Hunter](https://bug-hunter.baklib.com/)
+* [![](https://icongr.am/feather/code.svg?size=16&color=808080)OceanEye's Blog](http://blog.oceaneye.moe/)
+* [![](https://icongr.am/feather/code.svg?size=16&color=808080)WAI Tech Group](http://waitech.cn)
+* [![](https://icongr.am/feather/code.svg?size=16&color=808080)BOBI83](https://bobi.site/)
