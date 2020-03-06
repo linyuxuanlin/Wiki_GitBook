@@ -55,6 +55,15 @@
 
 ---
 
+## 编程语言
+
+### Python 
+* [《Think Python 2e》最新版中文翻译](https://codingpy.com/books/thinkpython2/index.html#think-python-2e)
+
+
+
+---
+
 ## 文章备份
 
 * [**Power's Collection**](https://www.yuque.com/collection-power)：互联网存档，优秀内容防丢备份
